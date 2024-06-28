@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj" />
-    <ProjectReference Include="..\Repository\Insfraestrutura.csproj" />
-    <ProjectReference Include="..\Services\Services.csproj" />
+    <ProjectReference Include="..\01-Core\Core.csproj" />
+    <ProjectReference Include="..\02-Repository\Insfraestrutura.csproj" />
+    <ProjectReference Include="..\03-Services\Services.csproj" />
   </ItemGroup>
 
 </Project>

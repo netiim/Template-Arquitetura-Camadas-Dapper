@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "Template-Arquitetura-Camadas-Dapper\API.csproj", "{554EE38F-EC70-4B96-8E74-5FF3B0524893}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "04-Application\API.csproj", "{554EE38F-EC70-4B96-8E74-5FF3B0524893}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01- Core", "01- Core", "{836322B0-6FB6-4533-A89B-73AE61859D99}"
 EndProject
@@ -13,11 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03- Services", "03- Service
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04- Application", "04- Application", "{6767A051-CE5E-4075-BB74-17A7594038B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{179B901F-1E42-4CD5-9051-EDDB78D42415}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "01-Core\Core.csproj", "{179B901F-1E42-4CD5-9051-EDDB78D42415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insfraestrutura", "Repository\Insfraestrutura.csproj", "{CFB9660F-15BD-4FA6-90C8-3E5399101538}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insfraestrutura", "02-Repository\Insfraestrutura.csproj", "{CFB9660F-15BD-4FA6-90C8-3E5399101538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{67DC88EF-A5EE-43EF-897A-D2A19E5FFF39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "03-Services\Services.csproj", "{67DC88EF-A5EE-43EF-897A-D2A19E5FFF39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
