@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04- Application", "04- Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{179B901F-1E42-4CD5-9051-EDDB78D42415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insfraestrutura", "Repository\repository\Insfraestrutura.csproj", "{CFB9660F-15BD-4FA6-90C8-3E5399101538}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insfraestrutura", "Repository\Insfraestrutura.csproj", "{CFB9660F-15BD-4FA6-90C8-3E5399101538}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{67DC88EF-A5EE-43EF-897A-D2A19E5FFF39}"
 EndProject

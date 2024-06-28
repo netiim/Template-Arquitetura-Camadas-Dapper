@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Core\Core.csproj" />
-    <ProjectReference Include="..\Repository\repository\Insfraestrutura.csproj" />
+    <ProjectReference Include="..\Repository\Insfraestrutura.csproj" />
     <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 
