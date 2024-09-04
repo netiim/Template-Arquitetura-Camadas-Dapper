@@ -16,5 +16,6 @@ namespace Insfraestrutura.Repositorios
         {
             _connection = connection;
         }
+
     }
 }

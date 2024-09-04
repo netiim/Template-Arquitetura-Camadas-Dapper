@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Dommel" Version="3.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\01-Core\Core.csproj" />
   </ItemGroup>
 

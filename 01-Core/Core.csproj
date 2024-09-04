@@ -10,4 +10,8 @@
     <Folder Include="DTOs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dommel" Version="3.3.3" />
+  </ItemGroup>
+
 </Project>
